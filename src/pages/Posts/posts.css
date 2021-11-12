@@ -1,0 +1,42 @@
+
+
+.delete-post-pic {
+    width: 5px;
+    height: 5px;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+.comments-pic {
+    width: 30px;
+    height: 5px;
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.edit-icon {
+    margin-top: 2px;
+    width: 15px;
+    height: 5px;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+.answer-on-comment{
+    margin-right: 30px;
+    cursor: pointer;
+    float: right;
+}
+
+.filter-red{
+    filter: invert(22%) sepia(90%) saturate(6103%) hue-rotate(355deg) brightness(109%) contrast(121%);
+}
+.viewPerlies{
+    cursor: pointer;
+}
+

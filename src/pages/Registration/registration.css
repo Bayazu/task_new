@@ -1,0 +1,22 @@
+
+.form{
+    text-align: center;
+}
+.inputs{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.buttonReg{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.contentReg{
+    width: 15vw;
+}
